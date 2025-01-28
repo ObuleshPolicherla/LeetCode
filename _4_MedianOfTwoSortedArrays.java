@@ -1,5 +1,7 @@
 package LeetCode;
 
+import java.util.Arrays;
+
 public class _4_MedianOfTwoSortedArrays {
 	public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // Get the sizes of both input arrays.
